@@ -1,0 +1,1 @@
+signed-ota_update.zip filter=lfs diff=lfs merge=lfs -text
